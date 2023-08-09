@@ -1,41 +1,35 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
-*{
-  margin-right:40px ;
-  margin-left:40px ;
+* {
+  margin-right: 40px;
+  margin-left: 40px;
   margin-top: 10px;
   margin-bottom: 10px;
+  background-color: lightgoldenrodyellow;
 }
 
-.navbar{
-  align-items: center;
+.navbar {
   display: flex;
-  justify-content: center;
- 
-
 }
-.logo{
+.logo {
   display: flex;
-  margin-left:auto ;
+  margin-left: auto;
   margin-right: auto;
-  
 }
-.para{
+.para {
   font-size: medium;
 }
-.Heading{
+.Heading {
   font-weight: 1100;
-  
 }
-.side-bar{
- display: flex;
- height: 500px;
-  }
-.section-1{
+.side-bar {
+  display: flex;
+  height: 400px;
+}
+.section-1 {
   display: flex;
   font-size: larger;
-
 }
-.div-nav h1{
+.div-nav h1 {
   top: 254px;
   left: 121px;
   width: 548px;
@@ -46,15 +40,52 @@
   color: #000000;
   opacity: 1;
 }
-.Check-btn{
+.Check-btn {
   font-size: 20px;
   height: auto;
   width: auto;
   color: #ffff;
-  background-color:#1492E6;
+  background-color: #1492e6;
   text-align: left;
   border-radius: 25px;
   border: none;
   color: white;
   padding: 15px 32px;
-   }
+}
+#heading-1 {
+  font-weight: 900;
+  text-align: center;
+  padding-top: 100px;
+}
+.cont-1 p {
+  box-sizing: border-box;
+  width: 320px;
+  height: auto;
+  padding: 12px;
+  margin: 10px;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 19px;
+  margin-top: 60px;
+}
+.cont-1 span {
+  font-weight: bold;
+  font-size: 22px;
+  display: flex;
+}
+.cont-1 {
+  align-items: center;
+  display: flex;
+  /* justify-content: flex-end; */
+}
+#heading-2{
+  font-weight: 900;
+  text-align: center;
+  padding-top: 100px;
+ }
+ .cont-2 span{
+  width: 320px;
+  height: auto;
+  padding: 12px;
+  margin: 10px;
+  margin-top: 60px;
+ }
