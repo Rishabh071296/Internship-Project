@@ -100,3 +100,53 @@
   text-align: center;
   padding-top: 100px;
 }
+.Goal-part-1{
+  display: flex; 
+   align-items: center;
+   font-size: medium;
+}
+.intro-1{
+  width: 630px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.Goal-part-2{
+   display: flex; 
+   align-items: center;
+   font-size: medium;
+   
+}
+.intro-2{
+  width: 630px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.Goal-part-3{
+  display: flex; 
+   align-items: center;
+   font-size: medium;
+}
+.intro-3{
+  width: 630px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.Goal-part-4{
+  display: flex; 
+   align-items: center;
+   font-size: medium;
+}
+.intro-4{
+  width: 630px;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image{
+  /* margin: 50px; */
+  /* margin-left: 10px; */
+  margin-right: 20px;
+
+}
+
+
+
