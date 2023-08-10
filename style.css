@@ -147,6 +147,26 @@
   margin-right: 20px;
 
 }
+#heading-4{
+  font-weight: 900;
+  text-align: center;
+  padding-top: 100px;
+}
 
+.Star-review{
+  display: flex; 
+   align-items: center;
+   font-size: medium;
+}
 
+  /* .customer-review{  
+    box-sizing: border-box;
+    width: 320px;
+    height: auto;
+    padding: 12px;
+    margin: 10px;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 19px;
+    margin-top: 60px;
+} */
 
